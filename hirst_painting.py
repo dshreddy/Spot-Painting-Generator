@@ -13,7 +13,7 @@ def painting_generator(radius):
     colors = colorgram.extract('hirst.jpeg', 100)
 
     x_gap = int(3 * radius)
-    y_gap = int(3 * radius)m
+    y_gap = int(3 * radius)
 
     tim = turtle.Turtle()
     tim.hideturtle()
